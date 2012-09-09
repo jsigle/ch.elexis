@@ -4,7 +4,7 @@ ch.elexis für 2.1.6.js / Verbesserungen und Erweiterungen des Elexis Kernmoduls
 Erweiterungen in elexis-base/ch.elexis, von von Elexis 2.1.6.dev zu nach 2.1.6.js:
 Falls ich mich gerade richtig erinnere, mindestens folgende Verbesserungen und Erweiterungen:
 Custom splash screen (zur Bearbeitung mit GIMP als *.xcf, zur Verwendung als *.bmp);
-Knöpfe und Menüpunkte in Patientenliste und Adress-Details zum Kopieren einer oder mehrerer ausgewählter Adresse/n in die Zwischenablage
+Knöpfe und Menüpunkte in Patientenliste (PatientenView) und Kontakte-Liste (KontakteView) zum Kopieren einer oder mehrerer ausgewählter Adresse/n in die Zwischenablage
 (mit Code, der die entsprechenden Textblöcke erzeugt; je nach Aufgabenstellung Verwendung vorhandener Algorithmen für die erstellung der Postadresse oder eigener neuer Algorithmen);
 robusteres Handling von Ergebnissen von Datenbankabfragen um die Apotheken-Bestellungs-Dialoge;
 Kommentare und Code fürs Ablauf-Monitoring.
